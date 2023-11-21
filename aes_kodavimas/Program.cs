@@ -8,7 +8,8 @@ namespace cryptografija
     {
         static void Main(string[] args)
         {
-            //tesat
+            //tesat1
+
             Console.WriteLine("ka norite daryt ?: 1- uzsifruoti 2-desifuoriti");
             string pasirinkimas = Console.ReadLine();
             if (pasirinkimas == "1")
